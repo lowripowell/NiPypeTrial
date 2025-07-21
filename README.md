@@ -18,6 +18,14 @@ This project investigates how changing the spatial smoothing level of a single f
 
 I will be implementing a BIDS style pipeline using Nipype to integrate statistical analysis and preprocessing techniques. The aim is to get the workflow to be container ready and publivly reporducible.
 
+---
+
+## ✏️ My Notes from Notion ##
+
+I will also include a few notes i have written in the process so i can have a cohesive journey displayed on how i got from knowing nothing about these software to (hopefully) having a fully working workflow
+
+
+
 
 ---
 
