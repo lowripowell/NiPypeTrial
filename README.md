@@ -6,7 +6,9 @@ Turning my masters research project on spatial smoothing for fMRI into a NiPype 
 This repository will eventually contain the complete analysis pipeline for my Master's research project:  
 **"Blurred Lines: How Spatial Smoothing
 Influences the Statistical Analysis and
-Interpretation of fMRI Data"**, (Research_Project.pdf) developed using NiPype
+Interpretation of fMRI Data"**, developed using NiPype
+📄 [Download Research Project (PDF)](Research_Project.pdf)
+
 
 ---
 
