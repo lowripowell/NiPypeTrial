@@ -1,20 +1,21 @@
 # NiPypeTrial
 Turning my masters research project on spatial smoothing for fMRI into a NiPype workflow to get use to BIDS and other techniques
 
-# 🧠 Nipype-based fMRI Analysis Pipeline for [Your Project Title]
+# 🧠 Nipype-based fMRI Analysis Pipeline for Spatial Smoothing Analysis Effect
 
 This repository will eventually contain the complete analysis pipeline for my Master's research project:  
 **"Blurred Lines: How Spatial Smoothing
 Influences the Statistical Analysis and
-Interpretation of fMRI Data"**,  developed using [Nipype](https://nipype.readthedocs.io/en/latest/) to ensure modularity, reproducibility, and compatibility with the BIDS standard.
+Interpretation of fMRI Data"**, (Research_Project.pdf) developed using NiPype
 
 ---
 
 ## 📚 Project Summary
 
-This project investigates [brief 1–2 sentence summary of the research goal].
+This project investigates how changing the spatial smoothing level of a single fMRI dataset can impact the statistcial analysis and interpretation of data.
 
-We implemented a BIDS-compliant pipeline using Nipype to integrate [e.g., FSL preprocessing, SPM statistics, custom Python analysis, etc.]. The workflow is container-ready and publicly reproducible.
+I will be implementing a BIDS style pipeline using Nipype to integrate statistical analysis and preprocessing techniques. The aim is to get the workflow to be container ready and publivly reporducible.
+
 
 ---
 
@@ -27,7 +28,7 @@ We implemented a BIDS-compliant pipeline using Nipype to integrate [e.g., FSL pr
 
 ---
 
-## 📂 Repository Structure
+## 📂 Proposed Repository Structure
 
 ```bash
 project/
